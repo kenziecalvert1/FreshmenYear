@@ -1,0 +1,3 @@
+cs 160 | 3 | Morgan Kim | Aimee Calvert| Don Traver | 1987 | 2 |
+Psychology | 2 | Yan Vanderkin | Peanut Kim | 1002 | 7 |
+Math 252 | 3 | Trevor Kim | Sam Smith | Nate More | 2014 | 3 |
